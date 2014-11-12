@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\05.DigitInEN\bin\Debug\05.DigitInEN.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\05.DigitInEN\bin\Debug\05.DigitInEN.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\05.DigitInEN\bin\Debug\05.DigitInEN.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\05.DigitInEN\obj\Debug\05.DigitInEN.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\05.DigitInEN\obj\Debug\05.DigitInEN.pdb

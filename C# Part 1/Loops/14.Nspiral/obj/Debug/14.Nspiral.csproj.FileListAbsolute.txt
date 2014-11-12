@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\14.Nspiral\bin\Debug\14.Nspiral.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\14.Nspiral\bin\Debug\14.Nspiral.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\14.Nspiral\bin\Debug\14.Nspiral.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\14.Nspiral\obj\Debug\14.Nspiral.csprojResolveAssemblyReference.cache
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\14.Nspiral\obj\Debug\14.Nspiral.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\14.Nspiral\obj\Debug\14.Nspiral.pdb

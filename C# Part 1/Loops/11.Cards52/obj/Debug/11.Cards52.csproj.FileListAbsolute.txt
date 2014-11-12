@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\11.Cards52\bin\Debug\11.Cards52.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\11.Cards52\bin\Debug\11.Cards52.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\11.Cards52\bin\Debug\11.Cards52.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\11.Cards52\obj\Debug\11.Cards52.csprojResolveAssemblyReference.cache
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\11.Cards52\obj\Debug\11.Cards52.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\11.Cards52\obj\Debug\11.Cards52.pdb

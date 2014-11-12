@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\10.PrintBonusScore\bin\Debug\10.PrintBonusScore.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\10.PrintBonusScore\bin\Debug\10.PrintBonusScore.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\10.PrintBonusScore\bin\Debug\10.PrintBonusScore.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\10.PrintBonusScore\obj\Debug\10.PrintBonusScore.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\10.PrintBonusScore\obj\Debug\10.PrintBonusScore.pdb

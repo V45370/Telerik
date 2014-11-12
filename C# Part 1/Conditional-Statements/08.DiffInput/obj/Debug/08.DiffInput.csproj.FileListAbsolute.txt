@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\08.DiffInput\bin\Debug\08.DiffInput.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\08.DiffInput\bin\Debug\08.DiffInput.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\08.DiffInput\bin\Debug\08.DiffInput.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\08.DiffInput\obj\Debug\08.DiffInput.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\08.DiffInput\obj\Debug\08.DiffInput.pdb

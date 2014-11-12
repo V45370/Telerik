@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\07.nNumsSum\bin\Debug\07.nNumsSum.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\07.nNumsSum\bin\Debug\07.nNumsSum.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\07.nNumsSum\bin\Debug\07.nNumsSum.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\07.nNumsSum\obj\Debug\07.nNumsSum.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\07.nNumsSum\obj\Debug\07.nNumsSum.pdb

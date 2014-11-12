@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\05.NKformulaFact\bin\Debug\05.NKformulaFact.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\05.NKformulaFact\bin\Debug\05.NKformulaFact.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\05.NKformulaFact\bin\Debug\05.NKformulaFact.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\05.NKformulaFact\obj\Debug\05.NKformulaFact.csprojResolveAssemblyReference.cache
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\05.NKformulaFact\obj\Debug\05.NKformulaFact.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\05.NKformulaFact\obj\Debug\05.NKformulaFact.pdb

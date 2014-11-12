@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\10.RationalSumToN\bin\Debug\10.RationalSumToN.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\10.RationalSumToN\bin\Debug\10.RationalSumToN.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\10.RationalSumToN\bin\Debug\10.RationalSumToN.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\10.RationalSumToN\obj\Debug\10.RationalSumToN.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\10.RationalSumToN\obj\Debug\10.RationalSumToN.pdb

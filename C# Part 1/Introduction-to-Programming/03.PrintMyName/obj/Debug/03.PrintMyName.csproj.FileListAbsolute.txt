@@ -1,0 +1,9 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\03.PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\03.PrintMyName\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\03.PrintMyName\obj\Debug\ConsoleApplication2.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\03.PrintMyName\obj\Debug\ConsoleApplication2.pdb

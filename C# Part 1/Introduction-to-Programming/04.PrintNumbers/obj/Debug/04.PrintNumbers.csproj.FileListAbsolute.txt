@@ -1,0 +1,8 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\04.PrintNumbers\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\04.PrintNumbers\obj\Debug\ConsoleApplication3.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\04.PrintNumbers\obj\Debug\ConsoleApplication3.pdb

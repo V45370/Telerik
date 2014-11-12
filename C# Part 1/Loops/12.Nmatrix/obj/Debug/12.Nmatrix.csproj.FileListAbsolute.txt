@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\12.Nmatrix\bin\Debug\12.Nmatrix.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\12.Nmatrix\bin\Debug\12.Nmatrix.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\12.Nmatrix\bin\Debug\12.Nmatrix.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\12.Nmatrix\obj\Debug\12.Nmatrix.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\12.Nmatrix\obj\Debug\12.Nmatrix.pdb

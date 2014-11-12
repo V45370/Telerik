@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\04.NKfact\bin\Debug\04.NKfact.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\04.NKfact\bin\Debug\04.NKfact.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\04.NKfact\bin\Debug\04.NKfact.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\04.NKfact\obj\Debug\04.NKfact.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\04.NKfact\obj\Debug\04.NKfact.pdb

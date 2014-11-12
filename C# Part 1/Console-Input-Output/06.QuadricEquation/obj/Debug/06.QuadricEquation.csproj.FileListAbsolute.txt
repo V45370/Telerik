@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\06.QuadricEquation\bin\Debug\06.QuadricEquation.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\06.QuadricEquation\bin\Debug\06.QuadricEquation.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\06.QuadricEquation\bin\Debug\06.QuadricEquation.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\06.QuadricEquation\obj\Debug\06.QuadricEquation.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Console-Input-Output\06.QuadricEquation\obj\Debug\06.QuadricEquation.pdb

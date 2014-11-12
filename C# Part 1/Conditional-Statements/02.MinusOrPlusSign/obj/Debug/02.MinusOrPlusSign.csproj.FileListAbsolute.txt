@@ -1,0 +1,5 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Conditional-Statements\02.MinusOrPlusSign\bin\Debug\02.MinusOrPlusSign.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Conditional-Statements\02.MinusOrPlusSign\bin\Debug\02.MinusOrPlusSign.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Conditional-Statements\02.MinusOrPlusSign\bin\Debug\02.MinusOrPlusSign.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Conditional-Statements\02.MinusOrPlusSign\obj\Debug\02.MinusOrPlusSign.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Conditional-Statements\02.MinusOrPlusSign\obj\Debug\02.MinusOrPlusSign.pdb

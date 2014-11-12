@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\09.SumOfSubsets\bin\Debug\09.SumOfSubsets.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\09.SumOfSubsets\bin\Debug\09.SumOfSubsets.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\09.SumOfSubsets\bin\Debug\09.SumOfSubsets.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\09.SumOfSubsets\obj\Debug\09.SumOfSubsets.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Conditional-Statements\09.SumOfSubsets\obj\Debug\09.SumOfSubsets.pdb

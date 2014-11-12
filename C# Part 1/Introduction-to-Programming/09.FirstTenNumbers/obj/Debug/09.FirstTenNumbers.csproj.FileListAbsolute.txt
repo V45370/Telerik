@@ -1,0 +1,5 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

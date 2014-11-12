@@ -1,0 +1,3 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingPoint\bin\Debug\03.CompareFloatingPoint.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingPoint\obj\Debug\03.CompareFloatingPoint.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03.CompareFloatingPoint\obj\Debug\03.CompareFloatingPoint.pdb

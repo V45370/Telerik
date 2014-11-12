@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.pdb

@@ -1,0 +1,6 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\Employees\bin\Debug\Employees.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\Employees\bin\Debug\Employees.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\Employees\bin\Debug\Employees.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\Employees\obj\Debug\10.Employees.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\Employees\obj\Debug\Employees.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\Employees\obj\Debug\Employees.pdb

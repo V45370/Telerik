@@ -1,0 +1,6 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\02.HelloCSharp\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\02.HelloCSharp\obj\Debug\ConsoleApplication1.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Introduction-to-Programming\02.HelloCSharp\obj\Debug\ConsoleApplication1.pdb

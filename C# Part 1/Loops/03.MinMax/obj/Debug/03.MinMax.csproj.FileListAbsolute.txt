@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\03.MinMax\bin\Debug\03.MinMax.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\03.MinMax\bin\Debug\03.MinMax.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\03.MinMax\bin\Debug\03.MinMax.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\03.MinMax\obj\Debug\03.MinMax.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Loops\03.MinMax\obj\Debug\03.MinMax.pdb
