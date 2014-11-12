@@ -1,0 +1,19 @@
+section { position: absolute; right: 0; left: 0; overflow: auto; }
+
+        div {
+            padding-right: 10px;
+            border: 1px solid #f00;
+            border-radius: 60px;
+            background: #000;
+        }
+        section > div { width: 800px; }
+
+        section > div                                                 { padding-right: 110px; }
+        section > div > div                                           { padding-right: 100px; }
+        section > div > div > div                                     { padding-right:  75px; }
+        section > div > div > div > div                               { padding-right:  60px; }
+        section > div > div > div > div > div                         { padding-right:  40px; }
+        section > div > div > div > div > div > div                   { padding-right:  30px; }
+        section > div > div > div > div > div > div > div             { padding-right:  20px; }
+        section > div > div > div > div > div > div > div > div       { padding-right:  10px; }
+        section > div > div > div > div > div > div > div > div > div { padding-right:  5px; }
