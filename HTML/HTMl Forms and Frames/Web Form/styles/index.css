@@ -1,0 +1,22 @@
+        textarea {
+            resize: none;
+        }
+
+        table, th, td {
+            border-style: solid;
+            border-width: 1px;
+            border-color: rgb(196, 196, 196);
+            border-collapse: collapse;
+            padding: 3px;
+            font-family: sans-serif;
+        }
+
+        tfoot {
+            text-align: center;
+            background-color: rgb(209,237,225);
+        }
+
+        th {
+            font-weight: bold;
+            text-align: right;
+        }

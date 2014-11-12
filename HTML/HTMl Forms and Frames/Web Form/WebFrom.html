@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Sample Form</title>
+	 <link href="styles/index.css" rel="stylesheet" type="text/css" /><!doctype html>
+	
+</head>
+<body>
+    <form method="get" action="apply-now.php">
+        <table>
+            <tfoot>
+                <tr>
+                    <td colspan="2">
+                        <input type="submit" name="submit" value="Submit" />
+                        <input type="reset" value="Clear This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <th>
+                        <label for="lname">Last Name</label>
+                    </th>
+                    <td>
+                        <input type="text" name="lname" id="lname" size="44" placeholder="Nakov" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="fname">First Name</label>
+                    </th>
+                    <td>
+                        <input type="text" name="fname" id="fname" size="44" placeholder="Svetlin" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="address">Address</label>
+                    </th>
+                    <td>
+                        <textarea name="address"
+                                  id="address"
+                                  cols="33"
+                                  rows="4"
+                                  placeholder="17 Hristo Botev Str. floor 3, apt. 12"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="city">City</label>
+                    </th>
+                    <th>
+                        <input type="text" name="city" id="city" size="30" placeholder="Kaspichan" />
+                        <label for="state">State</label>
+                        <input type="text" name="state" id="state" size="3" />
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="zip">Zip/Postal Code</label>
+                    </th>
+                    <td>
+                        <input type="text" name="zip" id="zip" placeholder="9325" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="country">Country</label>
+                    </th>
+                    <td>
+                        <select id="country" name="country">
+                            <option value="AT">Austria</option>
+                            <option value="BG" selected="selected">Bulgaria</option>
+                            <option value="CL">Chile</option>
+                            <option value="CR">Costa Rica</option>
+                            <option value="NZ">New Zealand</option>
+                            <option value="US">United States</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th class="label-text">
+                        Phone (country code,<br /> area code, number)
+                    </th>
+                    <td>
+                        (+
+                        <input type="text" name="code" placeholder="359" size="5" />
+                        )
+                        <input type="text" name="area" placeholder="88" size="7" />
+                        -
+                        <input type="text" name="number" placeholder="8334343" size="10" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="email">E-mail</label>
+                    </th>
+                    <td>
+                        <input type="email"
+                               name="email"
+                               id="email"
+                               pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}"
+                               placeholder="nakov@kaspichan.org" />
+                    </td>
+                </tr>
+                <tr>
+                    <th class="label-text">Birth date</th>
+                    <td>
+                        <label for="month">Month</label>
+                        <input type="text" id="month" maxlength="2" size="1" placeholder="06" />
+                        <label for="day">Day</label>
+                        <input type="text" id="day" maxlength="2" size="1" placeholder="14" />
+                        <label for="year">Year(4 digit)</label>
+                        <input type="text" id="year" maxlength="4" size="3" placeholder="1980" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="gender">Gender</label>
+                    </th>
+                    <td>
+                        <select id="gender" name="gender">
+                            <option value="m" selected="selected">Male</option>
+                            <option value="f">Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th class="label-text">Starting date</th>
+                    <td>
+                        <input type="radio" name="startDate" value="Spring2006" checked /> Spring 2006
+                        <input type="radio" name="startDate" value="Summer2006" /> Summer 2006
+                    </td>
+                </tr>
+                <tr>
+                    <th class="label-text">Comments/Questions</th>
+                    <td>
+                        <textarea name="comments"
+                                  cols="33" rows="5"
+                                  placeholder="Please send me more information about the lodging."></textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>
