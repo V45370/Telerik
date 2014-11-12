@@ -1,0 +1,12 @@
+﻿console.log("10 is: " + typeof(10));
+console.log("9.09 is:" + typeof (9.09));
+console.log("Math.PI is:" + typeof (Math.PI));
+console.log("Infinity is:" + typeof (Infinity));
+console.log("NaN is:" + typeof (NaN));
+console.log('"" is:' + typeof (""));
+console.log('"string" is:' + typeof ("string"));
+console.log("true is:" + typeof (true));
+console.log("undefined is:" + typeof (undefined));
+console.log("variable is:" + typeof (variable));
+console.log("[] is:" + typeof ([]));
+console.log("funuction fun() is:" + typeof (function fun() { }));

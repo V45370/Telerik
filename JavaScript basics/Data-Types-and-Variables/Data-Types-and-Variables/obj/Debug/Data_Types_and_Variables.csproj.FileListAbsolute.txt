@@ -1,0 +1,6 @@
+c:\users\vassi_000\documents\visual studio 2013\Projects\Data-Types-and-Variables\Data-Types-and-Variables\bin\Data_Types_and_Variables.dll.config
+c:\users\vassi_000\documents\visual studio 2013\Projects\Data-Types-and-Variables\Data-Types-and-Variables\bin\Data_Types_and_Variables.dll
+c:\users\vassi_000\documents\visual studio 2013\Projects\Data-Types-and-Variables\Data-Types-and-Variables\bin\Data_Types_and_Variables.pdb
+c:\users\vassi_000\documents\visual studio 2013\Projects\Data-Types-and-Variables\Data-Types-and-Variables\obj\Debug\Data_Types_and_Variables.csprojResolveAssemblyReference.cache
+c:\users\vassi_000\documents\visual studio 2013\Projects\Data-Types-and-Variables\Data-Types-and-Variables\obj\Debug\Data_Types_and_Variables.dll
+c:\users\vassi_000\documents\visual studio 2013\Projects\Data-Types-and-Variables\Data-Types-and-Variables\obj\Debug\Data_Types_and_Variables.pdb

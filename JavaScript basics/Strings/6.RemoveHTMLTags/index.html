@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script type="text/javascript">
+
+            function createStringBuilder() {
+                return {
+                    elements: [],
+                    len: function () {
+                        return this.elements.length;
+                    },
+                    append: function(element) {
+                        this.elements.push(element);
+                    },
+                    toString: function() {
+                        return this.elements.join('');
+                    }
+                };
+            }
+
+            function removeHTMLTags(htmlText) {
+                var inOpenTag = false, i, result = createStringBuilder();
+
+                for (i = 0; i < htmlText.length; ++i) {
+                    if (htmlText[i] === '<') {
+                        inOpenTag = true;
+                    }
+                    else if (htmlText[i] === '>') {
+                        inOpenTag = false;
+                    }
+                    else if (inOpenTag === false) {
+                        result.append(htmlText[i]);
+                    }
+                }
+                return result.toString();
+            }
+
+            var htmlText = '<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html>';
+            console.log(removeHTMLTags(htmlText));
+
+        </script>
+    </body>
+</html>
