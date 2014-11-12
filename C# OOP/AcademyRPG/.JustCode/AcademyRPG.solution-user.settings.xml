@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="c56a06bc-64bf-4fa1-a0f0-cb68b0ef7f25">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>ConsoleRPG/GameObjects/Stash.cs</FileRelativePath>
+        <ProjectRelativePath>ConsoleRPG/ConsoleRPG.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>7142360214062151837</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>12967303566535043616</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>16664797858152601805</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>9332870191750522806</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>ConsoleRPG/GameObjects/Player.cs</FileRelativePath>
+        <ProjectRelativePath>ConsoleRPG/ConsoleRPG.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>7142360214062151837</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>6899781285759985030</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>10402786326500154037</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>14024467850802870917</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

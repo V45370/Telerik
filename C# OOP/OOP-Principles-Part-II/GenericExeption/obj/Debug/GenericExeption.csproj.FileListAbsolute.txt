@@ -1,0 +1,5 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\OOP-Principles-Part-II\GenericExeption\bin\Debug\GenericExeption.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\OOP-Principles-Part-II\GenericExeption\bin\Debug\GenericExeption.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\OOP-Principles-Part-II\GenericExeption\bin\Debug\GenericExeption.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\OOP-Principles-Part-II\GenericExeption\obj\Debug\GenericExeption.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\OOP-Principles-Part-II\GenericExeption\obj\Debug\GenericExeption.pdb

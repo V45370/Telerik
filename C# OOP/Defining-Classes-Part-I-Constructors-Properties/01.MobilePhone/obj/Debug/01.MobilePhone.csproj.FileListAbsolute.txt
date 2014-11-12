@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\01.MobilePhone\bin\Debug\01.MobilePhone.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\01.MobilePhone\bin\Debug\01.MobilePhone.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\01.MobilePhone\bin\Debug\01.MobilePhone.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\01.MobilePhone\obj\Debug\01.MobilePhone.csprojResolveAssemblyReference.cache
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\01.MobilePhone\obj\Debug\01.MobilePhone.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\01.MobilePhone\obj\Debug\01.MobilePhone.pdb

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1F4305E-E026-4A86-9E12-F793E9694769}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleRPG</RootNamespace>
+    <AssemblyName>ConsoleRPG</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcademyRPGException.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="DataValidiryChecker.cs" />
+    <Compile Include="Enums\ItemLevel.cs" />
+    <Compile Include="Enums\KnowledgeTypes.cs" />
+    <Compile Include="Enums\RenderColorType.cs" />
+    <Compile Include="GameEngine.cs" />
+    <Compile Include="GameObjectsInitializer.cs" />
+    <Compile Include="GameObjects\EquiptableItems\EquiptableItem.cs" />
+    <Compile Include="GameObjects\EquiptableItems\Book.cs" />
+    <Compile Include="GameObjects\EquiptableItems\Laptop.cs" />
+    <Compile Include="GameObjects\EquiptableItems\Paper.cs" />
+    <Compile Include="GameObjects\EquiptableItems\Pen.cs" />
+    <Compile Include="GameObjects\Exam.cs" />
+    <Compile Include="GameObjects\Homework.cs" />
+    <Compile Include="GameObjects\Knowledge.cs" />
+    <Compile Include="GameObjects\KnowledgeInteractionItem.cs" />
+    <Compile Include="GameObjects\Lecture.cs" />
+    <Compile Include="GameObjects\MapObjects\MapObject.cs" />
+    <Compile Include="GameObjects\NakovNPC.cs" />
+    <Compile Include="GameObjects\Presentation.cs" />
+    <Compile Include="GameObjects\Player.cs" />
+    <Compile Include="ConsoleRenderer.cs" />
+    <Compile Include="ConsoleRendererDecorator.cs" />
+    <Compile Include="Coordinates.cs" />
+    <Compile Include="Enums\EquiptableItemType.cs" />
+    <Compile Include="GameObjects\GameObject.cs" />
+    <Compile Include="GameObjects\Riddle.cs" />
+    <Compile Include="GameObjects\Stash.cs" />
+    <Compile Include="GameObjects\Subject.cs" />
+    <Compile Include="Interfaces\ICollidable.cs" />
+    <Compile Include="Interfaces\IInteractable.cs" />
+    <Compile Include="Interfaces\ILearnable.cs" />
+    <Compile Include="Interfaces\IMoveable.cs" />
+    <Compile Include="Interfaces\ISolveable.cs" />
+    <Compile Include="Interfaces\IEquiptable.cs" />
+    <Compile Include="Interfaces\IRenderer.cs" />
+    <Compile Include="Interfaces\IRenderable.cs" />
+    <Compile Include="Keyboard.cs" />
+    <Compile Include="GameObjects\MapObjects\Lake.cs" />
+    <Compile Include="GameObjects\MapObjects\Mountain.cs" />
+    <Compile Include="GameObjects\NPC.cs" />
+    <Compile Include="StartMenu.cs" />
+    <Compile Include="MenuRenderer.cs" />
+    <Compile Include="ProgramMain.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomInstance.cs" />
+    <Compile Include="GameObjects\MapObjects\Tree.cs" />
+    <Compile Include="GameObjects\MapObjects\Map.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagramAcademyRPG.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

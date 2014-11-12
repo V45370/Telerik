@@ -1,0 +1,8 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\bin\Debug\01.MobilePhone.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\bin\Debug\01.MobilePhone.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.csprojResolveAssemblyReference.cache
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Defining-Classes-Part-I-Constructors-Properties\GSMCallHistoryTest\obj\Debug\GSMCallHistoryTest.pdb

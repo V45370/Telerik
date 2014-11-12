@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-II\Defining-Classes-Part-II\bin\Debug\Defining-Classes-Part-II.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-II\Defining-Classes-Part-II\obj\Debug\Defining-Classes-Part-II.csprojResolveAssemblyReference.cache
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-II\Defining-Classes-Part-II\bin\Debug\Defining-Classes-Part-II.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-II\Defining-Classes-Part-II\bin\Debug\Defining-Classes-Part-II.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-II\Defining-Classes-Part-II\obj\Debug\Defining-Classes-Part-II.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Defining-Classes-Part-II\Defining-Classes-Part-II\obj\Debug\Defining-Classes-Part-II.pdb

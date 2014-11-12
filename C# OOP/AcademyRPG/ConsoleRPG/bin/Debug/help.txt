@@ -1,0 +1,26 @@
+Information and goals:
+
+There are 3 base knowledge types: 
+Desktop and Mobile(DaM), Quality Assurance(QA), Web Developer(WD).
+The player can move around the map and can solve riddles, do 
+homeworks or attend lectures and he  is rewarded with knowledge or items. 
+The player also has a stash where he treasures up items.
+Rewards are different items. Once you obtain an item you choose if you want
+to equip it or not. The main benefit of the rewards is that they give you 
+bonus knowledge. The items can be: paper, pen, book or a laptop. Each item 
+has a level (Basic,Advanced,Expert). Depending on how superior one item is 
+the more knowledge bonus you get from doing homeworks. 
+
+Every subject has number of homeworks, lectures, presentations and an exam.
+In order to have access to the exam you need to gain knowledge by attending
+the lectures, do homeworks and presentations. Each one requests time.
+
+Game keys:
+
+UpArrow-Move up
+DownArrow-Move down
+LeftArrow-Move left
+RightArrow-Move right
+i-inventory near the chest
+q-homeworks
+s-player status

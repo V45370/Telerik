@@ -1,0 +1,6 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\02.Human\bin\Debug\02.Human.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\02.Human\bin\Debug\02.Human.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\02.Human\bin\Debug\02.Human.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\02.Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache
+C:\Users\V45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\02.Human\obj\Debug\02.Human.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\02.Human\obj\Debug\02.Human.pdb

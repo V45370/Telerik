@@ -1,0 +1,2 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\01.School\bin\Debug\01.School.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Object-Oriented-Programming-Principles-Part-I\01.School\obj\Debug\01.School.csprojResolveAssemblyReference.cache

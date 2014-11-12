@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Methods-Delegates-Lambda-LINQ\Methods-Delegates-Lambda-LINQ\bin\Debug\Methods-Delegates-Lambda-LINQ.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods-Delegates-Lambda-LINQ\Methods-Delegates-Lambda-LINQ\bin\Debug\Methods-Delegates-Lambda-LINQ.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods-Delegates-Lambda-LINQ\Methods-Delegates-Lambda-LINQ\bin\Debug\Methods-Delegates-Lambda-LINQ.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods-Delegates-Lambda-LINQ\Methods-Delegates-Lambda-LINQ\obj\Debug\Methods-Delegates-Lambda-LINQ.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods-Delegates-Lambda-LINQ\Methods-Delegates-Lambda-LINQ\obj\Debug\Methods-Delegates-Lambda-LINQ.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods-Delegates-Lambda-LINQ\Methods-Delegates-Lambda-LINQ\obj\Debug\Methods-Delegates-Lambda-LINQ.pdb

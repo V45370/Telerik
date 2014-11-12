@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleRPG.ConsoleRenderer" Collapsed="true">
+    <Position X="20.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAwAAACAIQAQAIAAAAAAIAAAAkAABAAAAIAIAA=</HashCode>
+      <FileName>ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.ConsoleRendererDecorator" Collapsed="true">
+    <Position X="20.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAAAAAAAAAAAAEAIAAAAAQAAAEAAAAAAA=</HashCode>
+      <FileName>ConsoleRendererDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.Constants" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACQAAAEgABCAAAAIACAAAAABAAABAAAAAAAg=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.DataValidiryChecker" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAACAAAAAAAAAAAAABARAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataValidiryChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameEngine" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgAAAAIAAFCEAAAAAAAAAAAAkAABBAAABAAAhgAI=</HashCode>
+      <FileName>GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjectsInitializer" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABAAAAAAAIAAAAFIAAAIAIAAAAAAAAAFAAAQAA=</HashCode>
+      <FileName>GameObjectsInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.Keyboard" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Keyboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.MenuRenderer" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIABAAACABAAQAAAAAAAAAAAAAAAGAQAgAAAAIIA=</HashCode>
+      <FileName>MenuRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.ProgramMain" Collapsed="true">
+    <Position X="18.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ProgramMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.RandomInstance" Collapsed="true">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>RandomInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.StartMenu" Collapsed="true">
+    <Position X="15" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIEgCAAAAkAAAgAAAAAAAAAAAAAAKIAAg=</HashCode>
+      <FileName>StartMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Book" Collapsed="true">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\EquiptableItems\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.EquiptableItem" Collapsed="true">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAgAAAAAAAAAAAQAAAAAAYAAQAgAABAAAA=</HashCode>
+      <FileName>GameObjects\EquiptableItems\EquiptableItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Laptop" Collapsed="true">
+    <Position X="18" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\EquiptableItems\Laptop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Paper" Collapsed="true">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\EquiptableItems\Paper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Pen" Collapsed="true">
+    <Position X="22" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\EquiptableItems\Pen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Exam" Collapsed="true">
+    <Position X="24" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAQAAAAAAAAAAAAACAAIAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GameObjects\Exam.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.GameObject" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Homework" Collapsed="true">
+    <Position X="26.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAgAAAAAAAACAAIAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GameObjects\Homework.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Knowledge" Collapsed="true">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEQAAAAAAAAQABAAEAAQAAAAAAAAQ=</HashCode>
+      <FileName>GameObjects\Knowledge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.KnowledgeInteractionItem" Collapsed="true">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\KnowledgeInteractionItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Lecture" Collapsed="true">
+    <Position X="30.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAgAAAggAAAAgAACAAA=</HashCode>
+      <FileName>GameObjects\Lecture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.NakovNPC" Collapsed="true">
+    <Position X="33" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABEAAIAEAAAAAEQAAAAQIAAAAAAIQAAAAAAQAAA=</HashCode>
+      <FileName>GameObjects\NakovNPC.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Npc" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEgAFAIAMAEAIAAAEQBAEAQAAAAAAAISAAAEACQAAA=</HashCode>
+      <FileName>GameObjects\NPC.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Player" Collapsed="true">
+    <Position X="13.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAlBgBgIARAMAAAAAAAAGAAQAAAAAAIIQAAgAQAQAQE=</HashCode>
+      <FileName>GameObjects\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Presentation" Collapsed="true">
+    <Position X="28.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAgAAAggAAAEhAAAAAA=</HashCode>
+      <FileName>GameObjects\Presentation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Riddle" Collapsed="true">
+    <Position X="23.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAACAAIAAQAAAAEAAAAAgAAAAI=</HashCode>
+      <FileName>GameObjects\Riddle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Stash" Collapsed="true">
+    <Position X="30.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAABBAAIAEEAAAAEQAEAAQgAAAAAAMQAAAAAAQAAA=</HashCode>
+      <FileName>GameObjects\Stash.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.Subject" Collapsed="true">
+    <Position X="33" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAQAAAAEEAAAABAAkAAAAAAAABAAAAAQQAAAAE=</HashCode>
+      <FileName>GameObjects\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.MapObjects.Lake" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\MapObjects\Lake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.MapObjects.Map" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAQABBABA=</HashCode>
+      <FileName>GameObjects\MapObjects\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.MapObjects.MapObject" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAIAAEAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\MapObjects\MapObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.MapObjects.Mountain" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\MapObjects\Mountain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleRPG.GameObjects.MapObjects.Tree" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\MapObjects\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ConsoleRPG.Coordinates" Collapsed="true">
+    <Position X="13.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEwAEAAAAAAAAAAIAAAABgAAAAYiA=</HashCode>
+      <FileName>Coordinates.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ConsoleRPG.Interfaces.ICollidable" Collapsed="true">
+    <Position X="25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleRPG.Interfaces.IEquiptable" Collapsed="true">
+    <Position X="26.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAABAAAA=</HashCode>
+      <FileName>Interfaces\IEquiptable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleRPG.Interfaces.IInteractable" Collapsed="true">
+    <Position X="28.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IInteractable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleRPG.Interfaces.ILearnable" Collapsed="true">
+    <Position X="30.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAggAQAAgAAAAAA=</HashCode>
+      <FileName>Interfaces\ILearnable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleRPG.Interfaces.IMoveable" Collapsed="true">
+    <Position X="25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMoveable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleRPG.Interfaces.IRenderable" Collapsed="true">
+    <Position X="26.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleRPG.Interfaces.IRenderer" Collapsed="true">
+    <Position X="28.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACAAAAAAIAAAAAAIAAAAAAABAAAAIAAAA=</HashCode>
+      <FileName>Interfaces\IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleRPG.Interfaces.ISolveable" Collapsed="true">
+    <Position X="30.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAQAABAAAAAA=</HashCode>
+      <FileName>Interfaces\ISolveable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ConsoleRPG.Enums.EquiptableItemType" Collapsed="true">
+    <Position X="25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAACABAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\EquiptableItemType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleRPG.Enums.ItemLevel" Collapsed="true">
+    <Position X="26.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAACCAAA=</HashCode>
+      <FileName>Enums\ItemLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleRPG.Enums.KnowledgeTypes" Collapsed="true">
+    <Position X="28.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\KnowledgeTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleRPG.Enums.RenderColorType" Collapsed="true">
+    <Position X="30.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAGAARBAAAAAgAEQBAAABAABAAAAAAAAAAIADAAAAA=</HashCode>
+      <FileName>Enums\RenderColorType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
