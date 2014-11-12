@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Div-Nodes</title>
+</head>
+<body>
+    <div id="div-parent">
+        <div class="nasted-div">nasted-div-1</div>
+        <div class="nasted-div">
+            nasted-div-2
+            <div class="nasted-div">nasted-div-2-1</div>
+        </div>
+        <div class="nasted-div">nasted-div-3</div>
+        <div class="nasted-div">
+            nasted-div-4
+            <div class="nasted-div">nasted-div-4-1</div>
+            <div class="nasted-div">nasted-div-4-2</div>
+        </div>
+
+    </div>
+    <script>
+        var divsWithSelectorAll = GetDivsSelectorAll();
+        var divsByTagName = GetDivsByTagName();
+        console.log(divsWithSelectorAll);
+        console.log(divsByTagName);
+
+        function GetDivsSelectorAll() {
+            var divs = document.querySelectorAll('div[class=nasted-div]');
+            return divs;
+        }
+
+        function GetDivsByTagName() {
+            var divs = document.getElementsByTagName('div');
+            inputs = [];
+            for (var i = 0, len = divs.length; i < len; i += 1) {
+                var div = divs[i];
+                inputs.push(div.getElementsByTagName('div')[0]);
+            }
+            return inputs;
+        }
+    </script>
+</body>
+</html>

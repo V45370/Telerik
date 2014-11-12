@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Change Background</title>
+</head>
+<body onload="ChangeBackground();">
+    <input type="color" id="input-color" value="" />
+    <input type="button" value="click" onclick="ChangeBackground();" />
+    <script type="text/javascript">
+    function ChangeBackground() {
+        var color = document.getElementById('input-color').value;
+        document.body.style.background = color;
+    }
+    </script>
+</body>
+
+</html>

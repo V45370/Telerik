@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Random divs</title>
+	<script src='scripts/randomDivs.js'></script>
+	<script src='scripts/circularDivs.js'></script>
+	<script src="libs/jquery/jquery-1.10.1.min.js"></script>
+</head>
+<body>
+	<div class = "buttons">
+        <label for = "count">Choose number of divs</label>
+        <input type = "text" id = "count"> 
+        <button id="divGenerator">Generate</button>  
+        <button id="clear">Clear</button> 
+    </div>
+    <script>
+		divGenerator.addEventListener("click", generateDivs, false);
+		clear.addEventListener("click", clearDivs, false);	
+	</script>
+
+</body>
+</html>

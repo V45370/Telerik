@@ -1,0 +1,6 @@
+C:\Users\vassi_000\Documents\Visual Studio 2013\Projects\Document-Object-Model\Document-Object-Model\bin\_01.DivNodes.dll.config
+C:\Users\vassi_000\Documents\Visual Studio 2013\Projects\Document-Object-Model\Document-Object-Model\bin\_01.DivNodes.dll
+C:\Users\vassi_000\Documents\Visual Studio 2013\Projects\Document-Object-Model\Document-Object-Model\bin\_01.DivNodes.pdb
+C:\Users\vassi_000\Documents\Visual Studio 2013\Projects\Document-Object-Model\Document-Object-Model\obj\Debug\Document-Object-Model.csprojResolveAssemblyReference.cache
+C:\Users\vassi_000\Documents\Visual Studio 2013\Projects\Document-Object-Model\Document-Object-Model\obj\Debug\_01.DivNodes.dll
+C:\Users\vassi_000\Documents\Visual Studio 2013\Projects\Document-Object-Model\Document-Object-Model\obj\Debug\_01.DivNodes.pdb

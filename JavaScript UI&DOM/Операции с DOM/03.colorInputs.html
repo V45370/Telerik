@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Color inputs</title>
+</head>
+<body>
+	<div>
+        <label for = "Background">Background</label>
+        <input type = "color" id = "Background"> 
+        <label for = "textColor">Text color</label>
+        <input type = "color" id = "textColor">     
+    </div>
+    <div>
+    	<textarea id = "textArea" rows = "20" cols = "50" ></textarea>
+    </div>
+
+	<script>
+		/* Task3 : Create a text area and two inputs with type="color"
+			Make the font color of the text area as the value of the first color input
+			Make the background color of the text area as the value of the second input
+		 */
+		var background = document.getElementById("Background"),
+			textColor = document.getElementById("textColor"),
+			textArea = document.getElementById("textArea");
+
+		background.addEventListener("input", function() {
+		    textArea.style.backgroundColor = background.value;
+		}, false); 
+
+		textColor.addEventListener("input", function() {
+		    textArea.style.color = textColor.value;
+		}, false); 
+	</script>
+</body>
+</html>

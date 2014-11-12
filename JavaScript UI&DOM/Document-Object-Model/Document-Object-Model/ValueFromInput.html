@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Value From Input</title>
+</head>
+<body onload="onload();">
+    <input type="text" name="enter" class="enter" id="input-text" value="" />
+    <input type="button" value="click" onclick="AlertValueOfInput();" />
+    <script type="text/javascript">
+    function AlertValueOfInput() {
+        var value = document.getElementById('input-text').value;
+        alert(value);
+    }
+    </script>
+</body>
+
+</html>
