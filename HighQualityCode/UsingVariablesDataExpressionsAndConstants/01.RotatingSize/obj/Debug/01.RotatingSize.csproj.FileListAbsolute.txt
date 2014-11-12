@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\UsingVariablesDataExpressionsAndConstants\01.RotatingSize\bin\Debug\01.RotatingSize.exe.config
+C:\Users\V45370\Documents\visual studio 2012\Projects\UsingVariablesDataExpressionsAndConstants\01.RotatingSize\bin\Debug\01.RotatingSize.exe
+C:\Users\V45370\Documents\visual studio 2012\Projects\UsingVariablesDataExpressionsAndConstants\01.RotatingSize\bin\Debug\01.RotatingSize.pdb
+C:\Users\V45370\Documents\visual studio 2012\Projects\UsingVariablesDataExpressionsAndConstants\01.RotatingSize\obj\Debug\01.RotatingSize.exe
+C:\Users\V45370\Documents\visual studio 2012\Projects\UsingVariablesDataExpressionsAndConstants\01.RotatingSize\obj\Debug\01.RotatingSize.pdb

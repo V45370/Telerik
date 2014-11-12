@@ -1,0 +1,1 @@
+c:\users\v45370\documents\visual studio 2012\Projects\StructuresConditionalStatementsAndLoops\02.RefactoredConditionalStatements\bin\Debug\02.RefactoredConditionalStatements.exe.config

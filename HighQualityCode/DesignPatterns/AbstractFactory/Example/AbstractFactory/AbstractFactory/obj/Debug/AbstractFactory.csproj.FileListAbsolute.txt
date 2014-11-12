@@ -1,0 +1,1 @@
+C:\Users\V45370\Desktop\DesignPatterns\AbstractFactory\Example\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
