@@ -1,0 +1,9 @@
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\bin\Debug\25.HtmlTitle.exe.config
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\bin\Debug\25.HtmlTitle.exe
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\bin\Debug\25.HtmlTitle.pdb
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\obj\Debug\25.HtmlTitle.csprojResolveAssemblyReference.cache
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\obj\Debug\25.HtmlTitle.exe
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\obj\Debug\25.HtmlTitle.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\bin\Debug\25.HtmlTitle.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\obj\Debug\25.HtmlTitle.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\25.HtmlTitle\obj\Debug\25.HtmlTitle.pdb

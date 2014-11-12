@@ -1,0 +1,5 @@
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\02.MaxSum3x3\bin\Debug\02.MaxSum3x3.exe.config
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\02.MaxSum3x3\bin\Debug\02.MaxSum3x3.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\02.MaxSum3x3\bin\Debug\02.MaxSum3x3.pdb
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\02.MaxSum3x3\obj\Debug\02.MaxSum3x3.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\02.MaxSum3x3\obj\Debug\02.MaxSum3x3.pdb

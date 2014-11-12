@@ -1,0 +1,6 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\08.AddIntArrays\bin\Debug\08.AddIntArrays.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\08.AddIntArrays\bin\Debug\08.AddIntArrays.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\08.AddIntArrays\bin\Debug\08.AddIntArrays.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\08.AddIntArrays\obj\Debug\08.AddIntArrays.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\08.AddIntArrays\obj\Debug\08.AddIntArrays.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\08.AddIntArrays\obj\Debug\08.AddIntArrays.pdb

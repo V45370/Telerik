@@ -1,0 +1,5 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\13.WordsCounterUsingDictionaryFile\bin\Debug\13.WordsCounterUsingDictionaryFile.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\13.WordsCounterUsingDictionaryFile\bin\Debug\13.WordsCounterUsingDictionaryFile.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\13.WordsCounterUsingDictionaryFile\bin\Debug\13.WordsCounterUsingDictionaryFile.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\13.WordsCounterUsingDictionaryFile\obj\Debug\13.WordsCounterUsingDictionaryFile.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\13.WordsCounterUsingDictionaryFile\obj\Debug\13.WordsCounterUsingDictionaryFile.pdb

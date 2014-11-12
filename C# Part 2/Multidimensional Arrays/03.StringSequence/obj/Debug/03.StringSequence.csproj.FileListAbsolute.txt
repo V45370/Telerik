@@ -1,0 +1,6 @@
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\03.StringSequence\bin\Debug\03.StringSequence.exe.config
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\03.StringSequence\bin\Debug\03.StringSequence.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\03.StringSequence\bin\Debug\03.StringSequence.pdb
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\03.StringSequence\obj\Debug\03.StringSequence.csprojResolveAssemblyReference.cache
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\03.StringSequence\obj\Debug\03.StringSequence.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\03.StringSequence\obj\Debug\03.StringSequence.pdb

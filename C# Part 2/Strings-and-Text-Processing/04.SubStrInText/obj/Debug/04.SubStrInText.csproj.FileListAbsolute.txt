@@ -1,0 +1,8 @@
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\bin\Debug\04.SubStrInText.exe.config
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\bin\Debug\04.SubStrInText.exe
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\bin\Debug\04.SubStrInText.pdb
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\obj\Debug\04.SubStrInText.exe
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\obj\Debug\04.SubStrInText.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\bin\Debug\04.SubStrInText.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\obj\Debug\04.SubStrInText.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\04.SubStrInText\obj\Debug\04.SubStrInText.pdb

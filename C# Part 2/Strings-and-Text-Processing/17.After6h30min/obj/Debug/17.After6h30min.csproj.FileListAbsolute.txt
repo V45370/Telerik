@@ -1,0 +1,5 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\17.After6h30min\bin\Debug\17.After6h30min.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\17.After6h30min\bin\Debug\17.After6h30min.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\17.After6h30min\bin\Debug\17.After6h30min.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\17.After6h30min\obj\Debug\17.After6h30min.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\17.After6h30min\obj\Debug\17.After6h30min.pdb

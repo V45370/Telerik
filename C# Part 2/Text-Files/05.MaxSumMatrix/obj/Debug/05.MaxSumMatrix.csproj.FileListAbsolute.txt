@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\05.MaxSumMatrix\bin\Debug\05.MaxSumMatrix.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Text-Files\05.MaxSumMatrix\obj\Debug\05.MaxSumMatrix.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Text-Files\05.MaxSumMatrix\bin\Debug\05.MaxSumMatrix.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Text-Files\05.MaxSumMatrix\bin\Debug\05.MaxSumMatrix.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Text-Files\05.MaxSumMatrix\obj\Debug\05.MaxSumMatrix.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Text-Files\05.MaxSumMatrix\obj\Debug\05.MaxSumMatrix.pdb

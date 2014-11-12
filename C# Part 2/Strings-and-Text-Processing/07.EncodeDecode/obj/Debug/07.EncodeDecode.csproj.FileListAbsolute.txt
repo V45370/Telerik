@@ -1,0 +1,8 @@
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe.config
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.pdb
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.pdb

@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\04.CompareLinesInFiles\bin\Debug\04.CompareLinesInFiles.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\04.CompareLinesInFiles\bin\Debug\04.CompareLinesInFiles.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\04.CompareLinesInFiles\bin\Debug\04.CompareLinesInFiles.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\04.CompareLinesInFiles\obj\Debug\04.CompareLinesInFiles.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\04.CompareLinesInFiles\obj\Debug\04.CompareLinesInFiles.pdb

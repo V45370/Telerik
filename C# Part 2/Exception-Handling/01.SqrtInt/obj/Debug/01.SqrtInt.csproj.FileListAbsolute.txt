@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Exception-Handling\01.SqrtInt\bin\Debug\01.SqrtInt.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\01.SqrtInt\bin\Debug\01.SqrtInt.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\01.SqrtInt\bin\Debug\01.SqrtInt.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\01.SqrtInt\obj\Debug\01.SqrtInt.csprojResolveAssemblyReference.cache
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\01.SqrtInt\obj\Debug\01.SqrtInt.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\01.SqrtInt\obj\Debug\01.SqrtInt.pdb

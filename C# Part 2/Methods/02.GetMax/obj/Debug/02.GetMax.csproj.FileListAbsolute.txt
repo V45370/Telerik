@@ -1,0 +1,5 @@
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Methods\02.GetMax\bin\Debug\02.GetMax.exe.config
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Methods\02.GetMax\bin\Debug\02.GetMax.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Methods\02.GetMax\bin\Debug\02.GetMax.pdb
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Methods\02.GetMax\obj\Debug\02.GetMax.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Methods\02.GetMax\obj\Debug\02.GetMax.pdb

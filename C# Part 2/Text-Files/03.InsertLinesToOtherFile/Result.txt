@@ -1,0 +1,29 @@
+1.using System;
+2.using System.IO;
+3.
+4.class InsertLinesToOtherFile
+5.{
+6.    /*
+7.     * Write a program that reads a text file and inserts line numbers in 
+8.     * front of each of its lines. The result should be written to another
+9.     * text file.
+10.     */
+11.
+12.    static void Main()
+13.    {
+14.
+15.        int linesCount = 1;
+16.        string lineRead = string.Empty;
+17.
+18.        using (StreamReader fileRead = new StreamReader("../../InsertLinesToOtherFile.cs"))
+19.        using (StreamWriter fileWrite = new StreamWriter("../../Result.txt"))
+20.            for (; (lineRead = fileRead.ReadLine()) != null; linesCount++)
+21.            {
+22.                fileWrite.WriteLine("{0}.{1}", linesCount, lineRead);
+23.            }
+24.        Console.WriteLine("File completed.");
+25.
+26.             
+27.    }
+28.}
+29.

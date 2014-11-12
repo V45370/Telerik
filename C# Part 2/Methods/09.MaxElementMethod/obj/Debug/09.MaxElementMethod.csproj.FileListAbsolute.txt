@@ -1,0 +1,6 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\09.MaxElementMethod\bin\Debug\09.MaxElementMethod.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\09.MaxElementMethod\bin\Debug\09.MaxElementMethod.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\09.MaxElementMethod\bin\Debug\09.MaxElementMethod.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\09.MaxElementMethod\obj\Debug\09.MaxElementMethod.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\09.MaxElementMethod\obj\Debug\09.MaxElementMethod.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\09.MaxElementMethod\obj\Debug\09.MaxElementMethod.pdb

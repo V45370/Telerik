@@ -1,0 +1,8 @@
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\bin\Debug\03.Brackets.exe.config
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\bin\Debug\03.Brackets.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\bin\Debug\03.Brackets.pdb
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\obj\Debug\03.Brackets.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\obj\Debug\03.Brackets.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\bin\Debug\03.Brackets.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\obj\Debug\03.Brackets.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\03.Brackets\obj\Debug\03.Brackets.pdb

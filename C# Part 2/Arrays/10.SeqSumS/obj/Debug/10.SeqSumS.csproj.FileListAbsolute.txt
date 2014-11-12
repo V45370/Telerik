@@ -1,0 +1,6 @@
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\10.SeqSumS\bin\Debug\10.SeqSumS.exe.config
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\10.SeqSumS\bin\Debug\10.SeqSumS.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\10.SeqSumS\bin\Debug\10.SeqSumS.pdb
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\10.SeqSumS\obj\Debug\10.SeqSumS.csprojResolveAssemblyReference.cache
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\10.SeqSumS\obj\Debug\10.SeqSumS.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\10.SeqSumS\obj\Debug\10.SeqSumS.pdb

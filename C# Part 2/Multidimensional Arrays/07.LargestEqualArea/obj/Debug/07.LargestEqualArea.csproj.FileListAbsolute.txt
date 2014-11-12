@@ -1,0 +1,6 @@
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestEqualArea\bin\Debug\07.LargestEqualArea.exe.config
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestEqualArea\bin\Debug\07.LargestEqualArea.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestEqualArea\bin\Debug\07.LargestEqualArea.pdb
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestEqualArea\obj\Debug\07.LargestEqualArea.csprojResolveAssemblyReference.cache
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestEqualArea\obj\Debug\07.LargestEqualArea.exe
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestEqualArea\obj\Debug\07.LargestEqualArea.pdb

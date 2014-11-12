@@ -1,0 +1,5 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\10.XMLtext\bin\Debug\10.XMLtext.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\10.XMLtext\bin\Debug\10.XMLtext.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\10.XMLtext\bin\Debug\10.XMLtext.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\10.XMLtext\obj\Debug\10.XMLtext.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\10.XMLtext\obj\Debug\10.XMLtext.pdb

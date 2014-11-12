@@ -1,0 +1,5 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\03.PrintFile\bin\Debug\03.PrintFile.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\03.PrintFile\bin\Debug\03.PrintFile.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\03.PrintFile\bin\Debug\03.PrintFile.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\03.PrintFile\obj\Debug\03.PrintFile.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Exception-Handling\03.PrintFile\obj\Debug\03.PrintFile.pdb

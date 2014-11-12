@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\02.TenRandom\bin\Debug\02.TenRandom.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\02.TenRandom\bin\Debug\02.TenRandom.exe
+c:\users\v45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\02.TenRandom\bin\Debug\02.TenRandom.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\02.TenRandom\obj\Debug\02.TenRandom.exe
+c:\users\v45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\02.TenRandom\obj\Debug\02.TenRandom.pdb

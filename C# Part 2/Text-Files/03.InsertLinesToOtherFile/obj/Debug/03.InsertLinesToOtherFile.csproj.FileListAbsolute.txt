@@ -1,0 +1,6 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\03.InsertLinesToOtherFile\bin\Debug\03.InsertLinesToOtherFile.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\03.InsertLinesToOtherFile\bin\Debug\03.InsertLinesToOtherFile.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\03.InsertLinesToOtherFile\bin\Debug\03.InsertLinesToOtherFile.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\03.InsertLinesToOtherFile\obj\Debug\03.InsertLinesToOtherFile.csprojResolveAssemblyReference.cache
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\03.InsertLinesToOtherFile\obj\Debug\03.InsertLinesToOtherFile.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\03.InsertLinesToOtherFile\obj\Debug\03.InsertLinesToOtherFile.pdb

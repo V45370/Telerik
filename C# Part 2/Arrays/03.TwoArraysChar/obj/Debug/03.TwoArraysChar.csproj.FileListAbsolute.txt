@@ -1,0 +1,6 @@
+d:\users\v45370laptop\documents\visual studio 2012\Projects\Arrays\03.TwoArraysChar\bin\Debug\03.TwoArraysChar.exe.config
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\03.TwoArraysChar\bin\Debug\03.TwoArraysChar.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\03.TwoArraysChar\bin\Debug\03.TwoArraysChar.pdb
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\03.TwoArraysChar\obj\Debug\03.TwoArraysChar.csprojResolveAssemblyReference.cache
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\03.TwoArraysChar\obj\Debug\03.TwoArraysChar.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\03.TwoArraysChar\obj\Debug\03.TwoArraysChar.pdb

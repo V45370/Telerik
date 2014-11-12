@@ -1,0 +1,6 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Numeral-Systems\04.HexToDec\bin\Debug\04.HexToDec.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Numeral-Systems\04.HexToDec\bin\Debug\04.HexToDec.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Numeral-Systems\04.HexToDec\bin\Debug\04.HexToDec.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Numeral-Systems\04.HexToDec\obj\Debug\04.HexToDec.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Numeral-Systems\04.HexToDec\obj\Debug\04.HexToDec.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Numeral-Systems\04.HexToDec\obj\Debug\04.HexToDec.pdb

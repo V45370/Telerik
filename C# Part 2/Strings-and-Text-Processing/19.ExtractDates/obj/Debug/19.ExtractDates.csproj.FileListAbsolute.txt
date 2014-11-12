@@ -1,0 +1,6 @@
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\19.ExtractDates\bin\Debug\19.ExtractDates.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\19.ExtractDates\bin\Debug\19.ExtractDates.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\19.ExtractDates\obj\Debug\19.ExtractDates.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\19.ExtractDates\obj\Debug\19.ExtractDates.pdb

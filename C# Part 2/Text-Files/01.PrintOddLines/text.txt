@@ -1,0 +1,16 @@
+This
+.
+Is
+.
+Some
+.
+Text
+.
+Printing
+.
+Only
+.
+Odd
+.
+Lines
+.

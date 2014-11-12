@@ -1,0 +1,5 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\12.RemoveWordsUsingDictionaryFile\bin\Debug\12.RemoveWordsUsingDictionaryFile.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\12.RemoveWordsUsingDictionaryFile\bin\Debug\12.RemoveWordsUsingDictionaryFile.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\12.RemoveWordsUsingDictionaryFile\bin\Debug\12.RemoveWordsUsingDictionaryFile.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\12.RemoveWordsUsingDictionaryFile\obj\Debug\12.RemoveWordsUsingDictionaryFile.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\12.RemoveWordsUsingDictionaryFile\obj\Debug\12.RemoveWordsUsingDictionaryFile.pdb

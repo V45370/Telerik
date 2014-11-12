@@ -1,0 +1,6 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\08.Int16ToBinary\bin\Debug\08.Int16ToBinary.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\08.Int16ToBinary\bin\Debug\08.Int16ToBinary.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\08.Int16ToBinary\bin\Debug\08.Int16ToBinary.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\08.Int16ToBinary\obj\Debug\08.Int16ToBinary.csprojResolveAssemblyReference.cache
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\08.Int16ToBinary\obj\Debug\08.Int16ToBinary.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\08.Int16ToBinary\obj\Debug\08.Int16ToBinary.pdb

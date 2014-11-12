@@ -1,0 +1,1 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Text-Files\09.DelEvenLines\bin\Debug\09.DelEvenLines.exe.config

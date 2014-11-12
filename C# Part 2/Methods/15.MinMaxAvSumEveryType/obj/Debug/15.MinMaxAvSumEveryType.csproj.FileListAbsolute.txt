@@ -1,0 +1,5 @@
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\15.MinMaxAvSumEveryType\bin\Debug\15.MinMaxAvSumEveryType.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\15.MinMaxAvSumEveryType\bin\Debug\15.MinMaxAvSumEveryType.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\15.MinMaxAvSumEveryType\bin\Debug\15.MinMaxAvSumEveryType.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\15.MinMaxAvSumEveryType\obj\Debug\15.MinMaxAvSumEveryType.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Methods\15.MinMaxAvSumEveryType\obj\Debug\15.MinMaxAvSumEveryType.pdb

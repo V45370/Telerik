@@ -1,0 +1,6 @@
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\09.FrequentNum\bin\Debug\09.FrequentNum.exe.config
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\09.FrequentNum\bin\Debug\09.FrequentNum.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\09.FrequentNum\bin\Debug\09.FrequentNum.pdb
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\09.FrequentNum\obj\Debug\09.FrequentNum.csprojResolveAssemblyReference.cache
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\09.FrequentNum\obj\Debug\09.FrequentNum.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\09.FrequentNum\obj\Debug\09.FrequentNum.pdb

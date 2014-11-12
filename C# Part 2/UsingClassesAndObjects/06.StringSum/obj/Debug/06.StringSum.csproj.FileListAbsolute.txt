@@ -1,0 +1,6 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.StringSum\bin\Debug\06.StringSum.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.StringSum\bin\Debug\06.StringSum.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.StringSum\bin\Debug\06.StringSum.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.StringSum\obj\Debug\06.StringSum.csprojResolveAssemblyReference.cache
+C:\Users\V45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.StringSum\obj\Debug\06.StringSum.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.StringSum\obj\Debug\06.StringSum.pdb

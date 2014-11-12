@@ -1,0 +1,5 @@
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

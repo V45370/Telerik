@@ -1,0 +1,6 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\UsingClassesAndObjects\07.ArithmeticalExpression\bin\Debug\07.ArithmeticalExpression.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\07.ArithmeticalExpression\obj\Debug\07.ArithmeticalExpression.csprojResolveAssemblyReference.cache
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\07.ArithmeticalExpression\bin\Debug\07.ArithmeticalExpression.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\07.ArithmeticalExpression\bin\Debug\07.ArithmeticalExpression.pdb
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\07.ArithmeticalExpression\obj\Debug\07.ArithmeticalExpression.exe
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\07.ArithmeticalExpression\obj\Debug\07.ArithmeticalExpression.pdb

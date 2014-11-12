@@ -1,0 +1,5 @@
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\06.BinToHex\bin\Debug\06.BinToHex.exe.config
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\06.BinToHex\bin\Debug\06.BinToHex.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\06.BinToHex\bin\Debug\06.BinToHex.pdb
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\06.BinToHex\obj\Debug\06.BinToHex.exe
+C:\Users\V45370\documents\visual studio 2012\Projects\Numeral-Systems\06.BinToHex\obj\Debug\06.BinToHex.pdb

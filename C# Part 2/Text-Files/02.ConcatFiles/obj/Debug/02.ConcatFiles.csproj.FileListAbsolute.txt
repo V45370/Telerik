@@ -1,0 +1,5 @@
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\02.ConcatFiles\bin\Debug\02.ConcatFiles.exe.config
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\02.ConcatFiles\bin\Debug\02.ConcatFiles.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\02.ConcatFiles\bin\Debug\02.ConcatFiles.pdb
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\02.ConcatFiles\obj\Debug\02.ConcatFiles.exe
+c:\users\v45370\documents\visual studio 2012\Projects\Text-Files\02.ConcatFiles\obj\Debug\02.ConcatFiles.pdb

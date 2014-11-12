@@ -1,0 +1,6 @@
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\04.MaxSeqEqual\bin\Debug\04.MaxSeqEqual.exe.config
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\04.MaxSeqEqual\bin\Debug\04.MaxSeqEqual.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\04.MaxSeqEqual\bin\Debug\04.MaxSeqEqual.pdb
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\04.MaxSeqEqual\obj\Debug\04.MaxSeqEqual.csprojResolveAssemblyReference.cache
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\04.MaxSeqEqual\obj\Debug\04.MaxSeqEqual.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\04.MaxSeqEqual\obj\Debug\04.MaxSeqEqual.pdb

@@ -1,0 +1,2 @@
+d:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\06.LessThan20\bin\Debug\06.LessThan20.exe.config
+C:\Users\V45370\Documents\Visual Studio 2012\Projects\Strings-and-Text-Processing\06.LessThan20\bin\Debug\06.LessThan20.exe.config

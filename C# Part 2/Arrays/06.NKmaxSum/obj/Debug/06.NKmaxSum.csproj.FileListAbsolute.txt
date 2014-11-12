@@ -1,0 +1,6 @@
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\06.NKmaxSum\bin\Debug\06.NKmaxSum.exe.config
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\06.NKmaxSum\bin\Debug\06.NKmaxSum.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\06.NKmaxSum\bin\Debug\06.NKmaxSum.pdb
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\06.NKmaxSum\obj\Debug\06.NKmaxSum.csprojResolveAssemblyReference.cache
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\06.NKmaxSum\obj\Debug\06.NKmaxSum.exe
+D:\Users\V45370laptop\Documents\Visual Studio 2012\Projects\Arrays\06.NKmaxSum\obj\Debug\06.NKmaxSum.pdb
