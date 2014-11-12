@@ -1,0 +1,35 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Web design\04. JS UI & DOM\TEAM work\TEAM work\bin\TEAM work.dll.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Web design\04. JS UI & DOM\TEAM work\TEAM work\bin\TEAM work.dll
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Web design\04. JS UI & DOM\TEAM work\TEAM work\bin\TEAM work.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Web design\04. JS UI & DOM\TEAM work\TEAM work\obj\Debug\TEAM work.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Web design\04. JS UI & DOM\TEAM work\TEAM work\obj\Debug\TEAM work.dll
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\Web design\04. JS UI & DOM\TEAM work\TEAM work\obj\Debug\TEAM work.pdb
+E:\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.dll.config
+E:\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.dll
+E:\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.pdb
+E:\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.csprojResolveAssemblyReference.cache
+E:\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.dll
+E:\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.pdb
+C:\Users\vassi_000\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.dll.config
+C:\Users\vassi_000\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.dll
+C:\Users\vassi_000\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.pdb
+C:\Users\vassi_000\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.csprojResolveAssemblyReference.cache
+C:\Users\vassi_000\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.dll
+C:\Users\vassi_000\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.pdb
+C:\Users\Radostin\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.dll
+C:\Users\Radostin\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.pdb
+C:\Users\Radostin\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.csprojResolveAssemblyReference.cache
+C:\Users\Radostin\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.dll
+C:\Users\Radostin\Documents\GitHub\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.pdb
+C:\Users\Hristo\Desktop\JS&UI i Dom\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.dll.config
+C:\Users\Hristo\Desktop\JS&UI i Dom\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.dll
+C:\Users\Hristo\Desktop\JS&UI i Dom\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\bin\TEAM work.pdb
+C:\Users\Hristo\Desktop\JS&UI i Dom\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\JS&UI i Dom\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.dll
+C:\Users\Hristo\Desktop\JS&UI i Dom\JavaScript-UI-DOM-Team-Jarek\TEAM work\TEAM work\obj\Debug\TEAM work.pdb
+F:\PROJECTS TELERIK\JavaScript\JavaScript UI TEAMWORK\TEAMWORK CLONE\TEAM work\TEAM work\bin\TEAM work.dll.config
+F:\PROJECTS TELERIK\JavaScript\JavaScript UI TEAMWORK\TEAMWORK CLONE\TEAM work\TEAM work\bin\TEAM work.dll
+F:\PROJECTS TELERIK\JavaScript\JavaScript UI TEAMWORK\TEAMWORK CLONE\TEAM work\TEAM work\bin\TEAM work.pdb
+F:\PROJECTS TELERIK\JavaScript\JavaScript UI TEAMWORK\TEAMWORK CLONE\TEAM work\TEAM work\obj\Debug\TEAM work.csprojResolveAssemblyReference.cache
+F:\PROJECTS TELERIK\JavaScript\JavaScript UI TEAMWORK\TEAMWORK CLONE\TEAM work\TEAM work\obj\Debug\TEAM work.dll
+F:\PROJECTS TELERIK\JavaScript\JavaScript UI TEAMWORK\TEAMWORK CLONE\TEAM work\TEAM work\obj\Debug\TEAM work.pdb

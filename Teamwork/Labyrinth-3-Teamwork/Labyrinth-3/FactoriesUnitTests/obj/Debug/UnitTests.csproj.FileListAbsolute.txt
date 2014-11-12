@@ -1,0 +1,14 @@
+C:\Users\ShOnZi\Desktop\TelerikAcademy\C#\HQC\Homerwork\TeamWork- Labyrinth-3\Labyrinth-3\FactoriesUnitTests\bin\Debug\FactoriesUnitTests.dll
+C:\Users\ShOnZi\Desktop\TelerikAcademy\C#\HQC\Homerwork\TeamWork- Labyrinth-3\Labyrinth-3\FactoriesUnitTests\bin\Debug\FactoriesUnitTests.pdb
+C:\Users\ShOnZi\Desktop\TelerikAcademy\C#\HQC\Homerwork\TeamWork- Labyrinth-3\Labyrinth-3\FactoriesUnitTests\bin\Debug\Labyrinth.exe
+C:\Users\ShOnZi\Desktop\TelerikAcademy\C#\HQC\Homerwork\TeamWork- Labyrinth-3\Labyrinth-3\FactoriesUnitTests\bin\Debug\Labyrinth.pdb
+C:\Users\ShOnZi\Desktop\TelerikAcademy\C#\HQC\Homerwork\TeamWork- Labyrinth-3\Labyrinth-3\FactoriesUnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ShOnZi\Desktop\TelerikAcademy\C#\HQC\Homerwork\TeamWork- Labyrinth-3\Labyrinth-3\FactoriesUnitTests\obj\Debug\FactoriesUnitTests.dll
+C:\Users\ShOnZi\Desktop\TelerikAcademy\C#\HQC\Homerwork\TeamWork- Labyrinth-3\Labyrinth-3\FactoriesUnitTests\obj\Debug\FactoriesUnitTests.pdb
+C:\Users\ShOnZi\Desktop\New folder\Labyrinth-3\FactoriesUnitTests\bin\Debug\FactoriesUnitTests.dll
+C:\Users\ShOnZi\Desktop\New folder\Labyrinth-3\FactoriesUnitTests\bin\Debug\FactoriesUnitTests.pdb
+C:\Users\ShOnZi\Desktop\New folder\Labyrinth-3\FactoriesUnitTests\bin\Debug\Labyrinth.exe
+C:\Users\ShOnZi\Desktop\New folder\Labyrinth-3\FactoriesUnitTests\bin\Debug\Labyrinth.pdb
+C:\Users\ShOnZi\Desktop\New folder\Labyrinth-3\FactoriesUnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ShOnZi\Desktop\New folder\Labyrinth-3\FactoriesUnitTests\obj\Debug\FactoriesUnitTests.dll
+C:\Users\ShOnZi\Desktop\New folder\Labyrinth-3\FactoriesUnitTests\obj\Debug\FactoriesUnitTests.pdb

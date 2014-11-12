@@ -1,0 +1,6 @@
+E:\Telerik\07_TeamWorks\02_CSharp2\SkiingTFS\Skiing\bin\Debug\Skiing.exe.config
+E:\Telerik\07_TeamWorks\02_CSharp2\SkiingTFS\Skiing\bin\Debug\Skiing.exe
+E:\Telerik\07_TeamWorks\02_CSharp2\SkiingTFS\Skiing\bin\Debug\Skiing.pdb
+E:\Telerik\07_TeamWorks\02_CSharp2\SkiingTFS\Skiing\obj\Debug\Skiing.exe
+E:\Telerik\07_TeamWorks\02_CSharp2\SkiingTFS\Skiing\obj\Debug\Skiing.pdb
+E:\Telerik\07_TeamWorks\02_CSharp2\SkiingTFS\Skiing\obj\Debug\SkiingRev3.csprojResolveAssemblyReference.cache
